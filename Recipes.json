@@ -1,0 +1,112 @@
+{
+	"Recipes": [
+		{
+			"ItemName" : "Jerk Chicken",
+
+			"ItemDescription" : "Jerk Chicken is a staple dish in Jamaica that explodes with flavor. Marinated in traditional 'Jerk' spice and then grilled, this chicken is often spicy and smokey.",
+
+        	"ItemTime" : "9 hrs",
+
+        	"ItemID" : 1,
+
+        	"ItemPeople" : 8,
+
+        	"ItemIngredients" : "1 medium onion, coarsely chopped\n3 medium scallions, coarsely chopped\n2 Scotch bonnet chiles chopped\n2 garlic cloves chopped\n1 TB five-spice powder\n1 TB allspcie berries, coarsely ground\n1 TB coarsely ground pepper\n1 TSP dried thyme, crumbled\n1 TSP freshly grated nutmeg\n1 TSP salt\n1/2 cup soy sauce\n 1 TB vegetable oil\nTwo 3 1/2 - to 4-pound chickens, quartered ",
+
+        	"ItemDirections" : "https://www.foodandwine.com/recipes/jamaican-jerk-chicken",
+
+        	"ItemVideo" :"https://youtu.be/Rt460jKi4Bk",
+
+        	"ItemImage" :"jerk.jpg"
+		},
+
+		{
+
+			 "ItemName" : "Ackee and Saltfish",
+
+        	"ItemDescription" : "Ackee and Saltfish is the national dish of Jamaica. The sweet Ackee fruit and salty codfish make for an excellent, fresh combination.",
+
+        	"ItemTime" : "2 hrs 30 min",
+
+        	"ItemID" : 2,
+
+        	"ItemPeople" : 4,
+
+        	"ItemIngredients" : "1/2 pound boneless salted codfish\n1/2 cup vegetable oil\n4 cloved garlic, finely chopped\n1 sprig fresh thyme\n2 onions, sliced\n4 scallions, chopped\n 1 cup assorted bell peppers\n1/4 Scotch bonnet pepper, finely chopped with seeds removed\n1 (20-ounce) can ackee, drained\n1 TSP ground black pepper\n 1 TSP paprika",
+        	
+
+   			"ItemDirections" : "https://www.foodnetwork.com/recipes/ackee-and-saltfish-recipe-2085381",
+
+        	"ItemVideo" : "https://youtu.be/NWxSPjxTHnY",
+
+        	"ItemImage" : "ackee.jpg"
+		},
+
+		{
+			"ItemName" : "Sweet and Sour Chicken",
+
+        	"ItemDescription" : "Sweet and Sour Chicken is a staple Chinese Takeout all over the USA. The tangy sauce and crispy fried chicken are what make this dish amazing.",
+
+        	"ItemTime" : "30 mins",
+
+        	"ItemID" : 3,
+
+        	"ItemPeople" : 4,
+
+        	"ItemIngredients" : "1 lb boneless skinless chicken thighs or breasts\n1 egg white\n1/2 TSP kosher salt\n2 TSP cornstarch\n1 (10oz) can pineapple chunks\n1/4 cup juice from canned pineapple\n1/4 cup white vinegar\n1/4 cup ketchup\n1/2 TSP kosher salt\n2-3 TBS brown sugar\n1TBS + 1TSP cooking oil\n1 red bell pepper\n1 yellow bell pepper\n1 TSP grated fresh ginger",
+
+        	"ItemDirections" : "https://www.simplyrecipes.com/recipes/sweet_and_sour_chicken/",
+
+        	"ItemVideo" : "https://youtu.be/lK32Zln5sds",
+
+        	"ItemImage" : "chick.jpg"
+
+
+		},
+
+		{
+			"ItemName" : "Apple Pie",
+
+        	"ItemDescription" : "Apple Pie is an American favorite and it is easy to see why. The warm, sweet, apples with a hint of cinnamon and the flaky crust are to die for.",
+
+        	"ItemTime" : "3 hrs",
+
+        	"ItemID" : 4,
+
+        	"ItemPeople" : 8,
+
+        	"ItemIngredients" : "1 box Pillsbury refrigerated pie crusts\n6 cups thinly sliced, peeled apples\n3/4 cups suagr\n2 TBS all-purpose flour\n3/4 TSP cinnamon\n1/4 TSP salt\n1/8 TSP nutmeg\n1 TBS lemon juice",
+
+        	"ItemDirections" : "https://www.pillsbury.com/recipes/perfect-apple-pie/1fc2b60f-0a4f-441e-ad93-8bbd00fe5334",
+
+        	"ItemVideo" : "https://youtu.be/KbyahTnzbKA",
+
+        	"ItemImage" : "apple.jpg"
+
+
+		},
+
+		{
+
+			"ItemName" : "Brownies",
+
+       	 	"ItemDescription" : "Brownies are a gooey, chocolatey delight for almost everyone. The melt in your mouth feeling really helps satisfy your sweet tooth.",
+
+       		"ItemTime" : "25 min",
+
+       		"ItemID" : 5,
+
+        	"ItemPeople" : 16,
+
+        	"ItemIngredients" : "1/2 cup melted butter or 1 stick\n1/2 cup unsweetened cocoa\n1 cup sugar\n 2 large eggs\n1 TSP vanilla\n1/2 cup flour\n1/4 TSP salt (leave out if using salted butter)",
+
+        	"ItemDirections" : "https://gimmedelicious.com/easy-one-bowl-fudgy-cocoa-brownies/",
+
+        	"ItemVideo" : "https://youtu.be/6OuJzGA0Umg",
+
+        	"ItemImage" : "brownie.jpg"
+		}
+
+
+	]
+}
